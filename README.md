@@ -1,2 +1,7 @@
-- PL — BDScript, Python(a little), node.js(trying)
-- Contact me ost#4823
+```
+ost
+│
+├── Discord: ost#4823
+│   ├── Telegram: @Astrov_Ost
+└── BDScript and Java
+```
