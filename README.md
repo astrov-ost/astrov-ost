@@ -1,5 +1,4 @@
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif) 
-
+![](https://media0.giphy.com/media/znFOMXuHVkV36qzdbJ/giphy.gif) 
 ```
 ost
 │
@@ -7,10 +6,3 @@ ost
 │   ├── Telegram: @Astrov_Ost
 └── BDScript and Java
 ```
-  
- <a href=#><img src="contributions.svg"></a> 
-  
- <p align="center">  
-   Visitor count<br> 
-   <img src="https://profile-counter.glitch.me/astrov-ost/count.svg" /> 
- </p>
