@@ -1,6 +1,15 @@
 ![](https://media0.giphy.com/media/znFOMXuHVkV36qzdbJ/giphy.gif)
-![](https://img.shields.io/badge/BDScript-self.svg)
-![](https://img.shields.io/badge/JavaScript--teach.svg) 
+My knowledge:
+
+![](https://img.shields.io/badge/BDScript-✓.svg)
+
+In degree of study:
+
+![](https://img.shields.io/badge/Python--py.svg)
+
+Planned to study:
+
+![](https://img.shields.io/badge/JavaScript--js.svg)
 
 ---
 
