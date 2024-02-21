@@ -8,4 +8,4 @@ Discord: `astrov.ost`
 ## Knowledge
 [![ BDScript   ](https://img.shields.io/badge/BDScript-informational?style=for-the-badge&color=7B68EE)]()
 [![ HTML and CSS   ](https://img.shields.io/badge/HTML%20and%20CSS-informational?style=for-the-badge&color=7B68EE)]()
-[![ Lua 5.1, 5.2   ](https://img.shields.io/badge/Lua%205.1,%205.2-informational?style=for-the-badge&color=7B68EE)]()
+[![ Lua   ](https://img.shields.io/badge/Lua-informational?style=for-the-badge&color=7B68EE)]()
