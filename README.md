@@ -9,3 +9,4 @@ Discord: `astrov.ost`
 [![ BDScript   ](https://img.shields.io/badge/BDScript-informational?style=for-the-badge&color=7B68EE)]()
 [![ HTML and CSS   ](https://img.shields.io/badge/HTML%20and%20CSS-informational?style=for-the-badge&color=7B68EE)]()
 [![ Lua   ](https://img.shields.io/badge/Lua-informational?style=for-the-badge&color=7B68EE)]()
+[![ Node.js   ](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&color=7B68EE)]()
